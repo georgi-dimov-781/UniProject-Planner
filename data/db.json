@@ -1,0 +1,34 @@
+{
+  "projects": [
+    {
+      "id": 2,
+      "title": "Make marketing email",
+      "details": "Lorem ipsum",
+      "complete": true
+    },
+    {
+      "title": "Create a Java Application",
+      "details": "Example",
+      "complete": true,
+      "id": 3
+    },
+    {
+      "title": "Create a Website using Wordpress",
+      "details": "aa",
+      "complete": false,
+      "id": 4
+    },
+    {
+      "title": "Example1",
+      "details": "SSSS",
+      "complete": true,
+      "id": 5
+    },
+    {
+      "title": "ExampleSec",
+      "details": "aaaaa",
+      "complete": false,
+      "id": 6
+    }
+  ]
+}
